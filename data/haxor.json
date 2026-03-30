@@ -1,0 +1,19 @@
+{
+    "id": 93422293,
+    "name": "haxor",
+    "author": "ecoa",
+    "creators": [],
+    "verifier": "ecoa",
+    "verification": "https://www.youtube.com/watch?v=HPHoPAsiUlA&t=77s",
+    "percentToQualify": "60",
+    "password": "Free to Copy",
+    "worstfail": "88",
+    "records": [
+        {
+            "user": "SzboGD",
+            "link": "https://en.wikipedia.org/wiki/Geometry",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
