@@ -1,0 +1,19 @@
+{
+    "id": 136917039,
+    "name": "Purple Tomato",
+    "author": "SzboGD",
+    "creators": [],
+    "verifier": "ecoa",
+    "verification": "https://youtu.be/7ZKlUYXIUnc",
+    "percentToQualify": "66",
+    "password": "Free to Copy",
+    "worstfail": "90",
+    "records": [
+        {
+            "user": "ecoa",
+            "link": "https://en.wikipedia.org/wiki/Bagel",
+            "percent": 100,
+            "hz": 720
+        }
+    ]
+}
