@@ -9,5 +9,11 @@
     "password": "Free to Copy",
     "worstfail": "88",
     "records": [
+        {
+            "user": "SzboGD",
+            "link": "https://en.wikipedia.org/wiki/Geometry",
+            "percent": 81,
+            "hz": 480
+        }
     ]
 }
